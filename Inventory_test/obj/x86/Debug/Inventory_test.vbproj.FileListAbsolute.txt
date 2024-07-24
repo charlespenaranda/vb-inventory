@@ -1,0 +1,56 @@
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\bin\Debug\Inventory_test.exe
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\bin\Debug\Inventory_test.pdb
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\bin\Debug\Inventory_test.xml
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\obj\x86\Debug\Inventory_test.Resources.resources
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\obj\x86\Debug\Inventory_test.vbproj.GenerateResource.Cache
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\obj\x86\Debug\Inventory_test.exe
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\obj\x86\Debug\Inventory_test.xml
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\obj\x86\Debug\Inventory_test.pdb
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\obj\x86\Debug\Inventory_test.Login.resources
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\obj\x86\Debug\Inventory_test.Main.resources
+C:\Users\Ron Benitez\AppData\Local\Temporary Projects\Inventory_test\obj\x86\Debug\Inventory_test.Inventory.resources
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.exe
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.xml
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.pdb
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\bin\Debug\Inventory_test.exe
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\bin\Debug\Inventory_test.pdb
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\bin\Debug\Inventory_test.xml
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Login.resources
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Inventory.resources
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Main.resources
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Resources.resources
+C:\Users\Ron Benitez\documents\visual studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.vbproj.GenerateResource.Cache
+C:\Users\Ron Benitez\Documents\Visual Studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.InventoryMain.resources
+C:\Users\Ron Benitez\Documents\Visual Studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Payment.resources
+C:\Users\Ron Benitez\Documents\Visual Studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Receipt.resources
+C:\Users\Ron Benitez\Documents\Visual Studio 2010\Projects\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.AddItems.resources
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.exe
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.xml
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.pdb
+D:\Inventory_test\Inventory_test\bin\Debug\Inventory_test.exe
+D:\Inventory_test\Inventory_test\bin\Debug\Inventory_test.pdb
+D:\Inventory_test\Inventory_test\bin\Debug\Inventory_test.xml
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.AddItems.resources
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Login.resources
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Inventory.resources
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.InventoryMain.resources
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Main.resources
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Resources.resources
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Payment.resources
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Receipt.resources
+D:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.vbproj.GenerateResource.Cache
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.exe
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.xml
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.pdb
+C:\Inventory_test\Inventory_test\bin\Debug\Inventory_test.exe
+C:\Inventory_test\Inventory_test\bin\Debug\Inventory_test.pdb
+C:\Inventory_test\Inventory_test\bin\Debug\Inventory_test.xml
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.AddItems.resources
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Login.resources
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Inventory.resources
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.InventoryMain.resources
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Main.resources
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Resources.resources
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Payment.resources
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.Receipt.resources
+C:\Inventory_test\Inventory_test\obj\x86\Debug\Inventory_test.vbproj.GenerateResource.Cache
